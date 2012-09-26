@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Resume>
+  <FullName>Potjamarn (Yui) Arpornratn</FullName>
+  <AddressLine1>25235 SE Klahanie Blvd., </AddressLine1>
+  <AddressLine2>STE A-204</AddressLine2>
+  <City>Issaquah</City>
+  <State>WA</State>
+  <PostalCode>98029</PostalCode>
+  
+  <Educations>
+    <Institution>University of Oregon
+      <GraduatedMonth>June</GraduatedMonth>
+      <GraduatedYear>1997</GraduatedYear>
+      <Degree>BS</Degree>
+      <Major>Computer Information Science</Major>
+      <Minor></Minor>
+    </Institution>
+
+    <Institution>Assumption University
+      <GraduatedMonth>March</GraduatedMonth>
+      <GraduatedYear>1992</GraduatedYear>
+      <Degree>BA</Degree>
+      <Major>Business Administration (Marketing)</Major>
+      <Minor></Minor>
+    </Institution>
+  </Educations>
+  
+  <Experiences>
+    <companyName>Ascents Services Group
+      <fromYear>06/2012</fromYear>
+      <toYear>08/2012</toYear>
+      <jobTitle>Senior SDET</jobTitle>
+      <jobDescriptions>
+        Responsible for solving complex testing challenges with an emphasis on automation and quality processes.
+        Partner with the Scrum team to plan, write, execute and refactor manual and automated test cases to provide story coverage. Pair programming on test and production code.
+        Implement test code within a best-fit automation framework.
+      </jobDescriptions>
+    </companyName>
+
+    <companyName>InfoSys
+      <fromYear>02/2012</fromYear>
+      <toYear>06/2012</toYear>
+      <jobTitle>Technical Test Lead (Senior SDET)</jobTitle>
+      <jobDescriptions>
+        Participate in discussions with customers to gather scope information and perform analysis of scope information in order to provide inputs for project scope documentation
+        Participate in requirement elicitation process defined in the project management plan to identify requirement gaps/issues (both functional and non-functional) in order to come up with a comprehensive requirement document
+        Perform high and Low level design , provides pseudo codes, Implements the prototypes and does design reviews in order to deliver design documents as per customer requirements
+        Mentor the team in Technical Competencies and provides performance feedback of the individual team member to the Project Manager in order to manage performance
+      </jobDescriptions>
+    </companyName>
+
+    <companyName>Staffing Technology (Short-term contract for ING Direct)
+      <fromYear>12/2011</fromYear>
+      <toYear>01/2012</toYear>
+      <jobTitle>Software Development Engineer in Test (SDET)</jobTitle>
+      <jobDescriptions>
+        Member of IT Department (back office QA Analysts):  Design, develop, and execute test plans and test cases for client server applications, and system upgrades
+        Design and develop automation for data generation, regression, and application testing for internal integration applications (backend testing via SQL Store procedures).
+        Develop test strategy and create and execute test cases for applications that integrate with external vendor systems.
+      </jobDescriptions>
+    </companyName>
+    
+  </Experiences>
+  
+</Resume>
+
+
